@@ -1,0 +1,35 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+body{
+    /* background: url(images/background.jpg); */
+    background: #FE724C;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+}
+
+div h1{
+    display:flex;
+    
+    
+    color:white;
+    font-size: 48px;
+    font-weight: bold;
+}
+#logo{
+    font-weight: 100;
+}
+
